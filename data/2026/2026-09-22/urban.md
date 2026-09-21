@@ -10,3 +10,4 @@
 |year                                      |integer   |Year in which the average share of green area or green area per capita was calculated. It can be 1990, 2000, 2010, 2020 or 2025. |
 |averageShareOfGreenAreaInCityUrbanAreaPct |double    |Average share of green area in each city in percentage. |
 |greenAreaPerCapitaM2                      |double    |Amount of green area per capita in square meters per city. |
+

@@ -28,3 +28,4 @@ urban <- readxl::read_excel(xlsx_file,
     greenAreaPerCapitaM2 = greenAreaPerCapita
   ) |>
   mutate(year = as.integer(year))
+
