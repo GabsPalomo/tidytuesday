@@ -7,7 +7,7 @@ data_source:
   url: "https://human-settlement.emergency.copernicus.eu/ghs_ucdb_2024.php"
 images:
 # Please include at least one image, and up to three images
-- file: "acton-crawford-8PB_TFEy2XQ-unsplash.jpg"
+- file: "acton-crawford-8PB_TFEy2XQ-unsplash.png"
   alt: >
     Exterior of a modern hospital building at dusk, with a brick and glass facade lit from within, a colorful sculpture of a child holding balloons on the wall, young trees and a landscaped walkway in front, and a U.S. flag near the entrance.
 credit:
